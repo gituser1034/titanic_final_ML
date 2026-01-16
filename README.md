@@ -1,6 +1,4 @@
-[Link to video](https://youtu.be/sB6Ux0dxP48)
-
-## Final Group Assignment
+## Machine Learning Final - Titanic Guessing Game
 
 **Authors:** Olly Love, Nathan Singer, David Kelly
 
@@ -49,5 +47,6 @@ Run every cell in main.ipynb to walk through our research, train, and store a co
 **Alternatively**, use the pretrained models provided in the `models/` folder.
 
 Then, play Titanic Guesser with `python deployment_game.py` to see the MLP model in action.
+
 
 
