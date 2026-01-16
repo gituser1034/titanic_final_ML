@@ -18,7 +18,7 @@ We have investigated various neural network design choices and compared them usi
     - 2D
     - 4D with a Residual Network
 
-We also put further research into expanding the model usage, we implemented a Tabular Autoencoder as well.
+We also put further research into expanding the model usage, by implementing a Tabular Autoencoder.
 
 
 ## Conclusions
@@ -47,6 +47,7 @@ Run every cell in main.ipynb to walk through our research, train, and store a co
 **Alternatively**, use the pretrained models provided in the `models/` folder.
 
 Then, play Titanic Guesser with `python deployment_game.py` to see the MLP model in action.
+
 
 
 
