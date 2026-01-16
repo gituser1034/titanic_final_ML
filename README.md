@@ -33,7 +33,7 @@ After a thourough investigation, we have determined that MLP 4D outputs the best
 
 ## How does the game work?
 
-The user is taken through a series of prompts. Each relays information about a theoretical, or real, passenger that was aboard the Titanic. With the information they are given, the user is expected to determine if the passenger survived the disaster or not.
+The user is taken through a series of prompts. Each relays information (slightly falsified) about a real passenger that was aboard the Titanic. With the information they are given, the user is expected to determine if the passenger survived the disaster or not.
 
 The answer is retrieved using the model we have trained on the Titanic dataset.
 
@@ -47,6 +47,7 @@ Run every cell in main.ipynb to walk through our research, train, and store a co
 **Alternatively**, use the pretrained models provided in the `models/` folder.
 
 Then, play Titanic Guesser with `python deployment_game.py` to see the MLP model in action.
+
 
 
 
